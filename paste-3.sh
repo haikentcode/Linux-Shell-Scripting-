@@ -1,0 +1,1 @@
+paste -s /dev/stdin 
